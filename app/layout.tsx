@@ -11,7 +11,7 @@ const manrope = Manrope({
 })
 
 export const metadata: Metadata = {
-  title: "My Expenses",
+  title: "Login Next",
   description: "App that helps you track your expenses",
 }
 
